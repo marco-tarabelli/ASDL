@@ -1,0 +1,16 @@
+# Compilare questo file prima di inviare il progetto
+# Componenti del gruppo in ordine alfabetico per cognome:
+
+# Componente 1
+NOME: Lorenzo
+COGNOME: Morichetti
+MATRICOLA: 110195
+EMAIL UNICAM: lorenzo.morichetti@studenti.unicam.it
+ANNO DI ISCRIZIONE AL PRIMO ANNO: 2019/2020
+
+# Componente 2 (opzionale)
+NOME: Marco
+COGNOME: Tarabelli
+MATRICOLA: 110203
+EMAIL UNICAM: marco.tarabelli@studenti.unicam.it
+ANNO DI ISCRIZIONE AL PRIMO ANNO: 2019/2020
